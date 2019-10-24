@@ -15,7 +15,7 @@ public class practice04 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double luas, jari;
-        System.out.println("jari-jari =");
+        System.out.print("jari-jari = ");
         jari = scan.nextDouble();
         // menghitung luas lingkaran
         luas = pi * (jari*jari);

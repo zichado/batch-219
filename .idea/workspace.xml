@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0767b37d-6a0d-4e43-9b76-310d61de7078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch-219.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/META-INF/batch-219.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practice06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/practise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/logic9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/quiz5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day1/practice04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day1/practice04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day1/practice04.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +40,9 @@
   </component>
   <component name="ProjectId" id="1Sd7dknLqGk5L108RFysndyefyF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -48,14 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.practice06">
-    <configuration name="practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.practice01" />
+  <component name="RunManager" selected="Application.practise12">
+    <configuration name="logic3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.logic3" />
       <module name="batch-219" />
-      <option name="PROGRAM_PARAMETERS" value="hello batch 219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.practice02" />
+    <configuration name="logic6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.logic6" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.practice03" />
+    <configuration name="logic7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.logic7" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.practice04" />
+    <configuration name="logic9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.logic9" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice06" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.practice06" />
+    <configuration name="practise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.practise12" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
@@ -116,19 +122,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.practice01" />
-      <item itemvalue="Application.practice02" />
-      <item itemvalue="Application.practice03" />
-      <item itemvalue="Application.practice04" />
-      <item itemvalue="Application.practice06" />
+      <item itemvalue="Application.logic3" />
+      <item itemvalue="Application.logic6" />
+      <item itemvalue="Application.logic7" />
+      <item itemvalue="Application.logic9" />
+      <item itemvalue="Application.practise12" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice06" />
-        <item itemvalue="Application.practice04" />
-        <item itemvalue="Application.practice03" />
-        <item itemvalue="Application.practice02" />
-        <item itemvalue="Application.practice01" />
+        <item itemvalue="Application.practise12" />
+        <item itemvalue="Application.logic9" />
+        <item itemvalue="Application.logic6" />
+        <item itemvalue="Application.logic7" />
+        <item itemvalue="Application.logic3" />
       </list>
     </recent_temporary>
   </component>
@@ -155,5 +161,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/xsis/day1/practise09.java</url>
+          <line>6</line>
+          <properties field="cf" class="com.xsis.day1.practise09" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
